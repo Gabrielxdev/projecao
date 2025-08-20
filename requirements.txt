@@ -1,0 +1,24 @@
+# Manipulação e análise de dados
+pandas
+numpy
+
+# Visualização
+matplotlib
+seaborn
+plotly
+
+# Leitura de Excel e arquivos
+openpyxl
+xlrd
+
+# Machine Learning e Modelagem
+scikit-learn
+statsmodels
+
+# Notebooks e suporte
+jupyter
+ipykernel
+
+# Utilidades
+python-dotenv   # para variáveis de ambiente (se precisar)
+
